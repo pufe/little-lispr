@@ -19,6 +19,8 @@ run `ruby littlelisp.rb` and interact with the REPL.
 You know, the usual, fork and create Pull Request.
 
 ### License
-GPL 3.0
+GNU GPL v3
+
 ...
-I think it means that I do not provide any warranty, and you can copy and distribute freely.
+
+I think it means that I do not provide any warranty, and you can copy and distribute it freely.
